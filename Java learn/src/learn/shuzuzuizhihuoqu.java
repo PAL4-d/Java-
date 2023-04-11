@@ -2,7 +2,7 @@ package learn;
 
 public class shuzuzuizhihuoqu {
     public static void main(String[] args) {
-        int [] arr = {4,1,6,3,9,8};
+        int [] arr = {22,24,76,12,21,33};
         // 定义一个数组
         int max = getMax(arr);
         // 调用获取数组最大值的方法
