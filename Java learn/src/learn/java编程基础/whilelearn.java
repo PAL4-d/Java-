@@ -1,4 +1,4 @@
-package learn;
+package learn.java编程基础;
 
 public class whilelearn {
     public static void main(String[]args){

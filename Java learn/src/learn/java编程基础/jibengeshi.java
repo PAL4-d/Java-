@@ -1,4 +1,4 @@
-package learn;
+package learn.java编程基础;
 
 public class jibengeshi {
     public static void main(String[] args) throws Exception {
